@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nimble-test-task/static/css/main.db931530.chunk.css",
+    "main.js": "/nimble-test-task/static/js/main.7f720fc9.chunk.js",
+    "main.js.map": "/nimble-test-task/static/js/main.7f720fc9.chunk.js.map",
+    "runtime-main.js": "/nimble-test-task/static/js/runtime-main.2da92191.js",
+    "runtime-main.js.map": "/nimble-test-task/static/js/runtime-main.2da92191.js.map",
+    "static/js/2.0f9a8227.chunk.js": "/nimble-test-task/static/js/2.0f9a8227.chunk.js",
+    "static/js/2.0f9a8227.chunk.js.map": "/nimble-test-task/static/js/2.0f9a8227.chunk.js.map",
+    "index.html": "/nimble-test-task/index.html",
+    "static/css/main.db931530.chunk.css.map": "/nimble-test-task/static/css/main.db931530.chunk.css.map",
+    "static/js/2.0f9a8227.chunk.js.LICENSE.txt": "/nimble-test-task/static/js/2.0f9a8227.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2da92191.js",
+    "static/js/2.0f9a8227.chunk.js",
+    "static/css/main.db931530.chunk.css",
+    "static/js/main.7f720fc9.chunk.js"
+  ]
+}
